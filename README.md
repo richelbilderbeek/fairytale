@@ -6,6 +6,5 @@ merging stuff
 into magical contraptions.
 The dragon has three eyes.
 Its middel eye could see the future.
-
 There was a prince.
 and they lived happily ever after.
