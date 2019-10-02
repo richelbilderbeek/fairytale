@@ -20,7 +20,11 @@ The wizard brewed a potion.
 
 
 The potion would make the princess fall in love with the prince.
+
 I don't believe it£¬but the prince believe it.
 
+
+
+The princess, upon hearing this, thought: 'I don't believe it.'.
 
 and they lived happily ever after.
