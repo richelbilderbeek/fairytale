@@ -16,12 +16,9 @@ The dragon informed the wizard.
 
 The wizard had a plan.
 The wizard brewed a potion.
-
-
-
 The potion would make the princess fall in love with the prince.
 
-I don't believe it£¬but the prince believe it.
+I don't believe it, but the prince believe it.
 
 
 
