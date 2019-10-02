@@ -26,5 +26,6 @@ I don't believe it£¬but the prince believe it.
 
 
 The princess, upon hearing this, thought: 'I don't believe it.'.
+The wizard give the prince a bottle of poison.
 
 and they lived happily ever after.
