@@ -10,4 +10,5 @@ There was a prince.
 The prince wanted to impress a pricess.
 The dragon saw that in the future, the prince would come thim him.
 The dragon informed the wizard.
+The wizard had a plan.
 and they lived happily ever after.
