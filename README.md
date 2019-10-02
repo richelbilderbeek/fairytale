@@ -1,8 +1,6 @@
 # fairytale
 
-Once upon a time there was a dragon
-that was a pet of a wizard that liked
-brewing potions.
+Once upon a time there was a dragon that was a pet of a wizard that liked brewing potions.
 The dragon has three eyes.
 Its middel eye could see the future.
 There was a prince.
